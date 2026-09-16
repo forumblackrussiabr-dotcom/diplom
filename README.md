@@ -1,1 +1,1 @@
-# diplom
+<img src="diplom.png">
